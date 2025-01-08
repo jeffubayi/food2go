@@ -1,4 +1,4 @@
-# supbase_app
+# food2go
 
 A new Flutter project.
 
